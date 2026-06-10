@@ -1,0 +1,10 @@
+print("Valid variable names:")
+print("data1")
+print("_data")
+print("data_1")
+print("totalSum")
+
+print("\nInvalid variable names:")
+print("1data")
+print("data-1")
+print("True")
